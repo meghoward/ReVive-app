@@ -51,7 +51,8 @@ st.markdown(
 # Personalized Support for Your Emotional Health.
 
 # Subheading
-st.subheader("We’re developing an app that helps you process your emotions and improve your mental health in a more effortless and trackable way.")
+# st.subheader("We’re developing an app that helps you process your emotions and improve your mental health in a more effortless and trackable way.")
+st.subheader("Do You Journal? Help Us Build a Tool That Works for You 🌱")
 
 # Body Text
 st.write(
