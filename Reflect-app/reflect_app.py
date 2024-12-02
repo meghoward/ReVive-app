@@ -51,16 +51,12 @@ st.markdown(
 # Personalized Support for Your Emotional Health.
 
 # Subheading
-# st.subheader("We’re developing an app that helps you process your emotions and improve your mental health in a more effortless and trackable way.")
+# st.subheader("We’re developing an app that helps you process your emotions and improve your mental health in a more effortless and trackable way. We understand that everyone’s journey is unique, and we want to make emotional processing more intuitive, meaningful, and approachable")
 st.subheader("Do You Journal? Help Us Build a Tool That Works for You 🌱")
 
 # Body Text
 st.write(
-    "We’re conducting research to build a tool that genuinely supports your emotional well-being. We understand that everyone’s journey is unique, and we want to make emotional processing more intuitive, meaningful, and approachable."
-)
-
-st.write(
-    "By participating in this survey, you’re helping us uncover the gaps and challenges in current tools and shaping a solution that genuinely makes a difference. Your thoughts and experiences are at the heart of what we’re building."
+    "We’re conducting research to build a tool that genuinely supports your emotional well-being. By participating in this survey, you’re helping us uncover the gaps and challenges in current tools and shaping a solution that genuinely makes a difference. Your thoughts and experiences are at the heart of what we’re building."
 )
 
 # Call to Action
