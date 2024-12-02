@@ -63,10 +63,6 @@ st.write(
     "By participating in this survey, you’re helping us uncover the gaps and challenges in current tools and shaping a solution that genuinely makes a difference. Your thoughts and experiences are at the heart of what we’re building."
 )
 
-# Bulleted List
-st.write("- **Your privacy matters:** All responses are completely anonymous and used only to guide our development.")
-st.write("- **Be part of the journey:** Participants will receive exclusive early access to ReflectAI, giving you the opportunity to influence the features that matter most to you.")
-
 # Call to Action
 st.write(
     "*Your voice matters. Together, we can build something that truly helps. Please take a few minutes to share your insights below.*"
@@ -118,3 +114,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+# Bulleted List
+st.write("- **Your privacy matters:** All responses are completely anonymous and used only to guide our development.")
+st.write("- **Be part of the journey:** Participants will receive exclusive early access to ReflectAI, giving you the opportunity to influence the features that matter most to you.")
